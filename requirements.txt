@@ -1,0 +1,4 @@
+requests==2.32.3
+python-dotenv==1.0.1
+# Optional but recommended for better OAuth handling
+pkce==1.0.0
