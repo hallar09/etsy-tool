@@ -14,7 +14,7 @@ This application helps me efficiently operate my Etsy business by:
 - Secure local/server-based operation
 
 ## Status
-- **For personal use only** (myself and possibly 1-2 colleagues)
+- **For personal use only** (myself)
 - Not available to the public
 - Not a commercial service
 - Complies fully with Etsy's API Terms of Use
