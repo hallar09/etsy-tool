@@ -20,9 +20,8 @@ This application helps me efficiently operate my Etsy business by:
 - Complies fully with Etsy's API Terms of Use
 
 ## Tech Stack
-- Python / Node.js / [whatever you're using]
+- Python / Node.js 
 - Etsy Open API v3
-- [Any other libraries]
 
 ## Disclaimer
 This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.  
