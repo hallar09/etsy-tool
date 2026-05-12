@@ -8,6 +8,15 @@ from urllib.parse import urlencode
 # Load environment variables
 load_dotenv()
 
+# ================== ETSY REQUIRED DISCLAIMER ==================
+print("=" * 70)
+print("The term 'Etsy' is a trademark of Etsy, Inc.")
+print("This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.")
+print("=" * 70)
+print()
+
+# ============================================================
+
 # ================== CONFIG ==================
 CLIENT_ID = os.getenv("ETSY_CLIENT_ID")          # Your API Key (keystring)
 REDIRECT_URI = os.getenv("ETSY_REDIRECT_URI")    # e.g. http://localhost:3000/oauth/redirect
