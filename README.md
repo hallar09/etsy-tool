@@ -1,4 +1,4 @@
-# My Etsy Shop Manager
+# My Shop Manager
 
 A **private internal tool** for managing my personal Etsy shop(s).
 
